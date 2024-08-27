@@ -1,0 +1,284 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop",
+      "description": "Laptop de alta gama con 16GB de RAM y 512GB SSD",
+      "price": 1200.99,
+      "stock": 5,
+      "category": "Laptop"
+    },
+    {
+      "id": 2,
+      "name": "Smartphone",
+      "description": "Smartphone con pantalla AMOLED y cámara de 48MP",
+      "price": 699.99,
+      "stock": 15,
+      "category": "Electrónica"
+    },
+    {
+      "id": 3,
+      "name": "Auriculares",
+      "description": "Auriculares inalámbricos con cancelación de ruido",
+      "price": 199.99,
+      "stock": 25,
+      "category": "Accesorios"
+    },
+    {
+      "id": 4,
+      "name": "Monitor",
+      "description": "Monitor 4K de 27 pulgadas con HDR",
+      "price": 349.99,
+      "stock": 8,
+      "category": "Electrónica"
+    },
+    {
+      "id": 5,
+      "name": "Teclado Mecánico",
+      "description": "Teclado mecánico retroiluminado con switches rojos",
+      "price": 89.99,
+      "stock": 20,
+      "category": "Accesorios"
+    },
+    {
+      "id": 6,
+      "name": "Mouse",
+      "description": "Mouse inalámbrico ergonómico",
+      "price": 49.99,
+      "stock": 30,
+      "category": "Accesorios"
+    },
+    {
+      "id": 7,
+      "name": "Impresora",
+      "description": "Impresora multifuncional con Wi-Fi",
+      "price": 129.99,
+      "stock": 10,
+      "category": "Oficina"
+    },
+    {
+      "id": 8,
+      "name": "Tablet",
+      "description": "Tablet con pantalla de 10 pulgadas y 64GB de almacenamiento",
+      "price": 299.99,
+      "stock": 12,
+      "category": "Electrónica"
+    },
+    {
+      "id": 9,
+      "name": "Cámara",
+      "description": "Cámara digital con lente de 24MP",
+      "price": 499.99,
+      "stock": 7,
+      "category": "Fotografía"
+    },
+    {
+      "id": 10,
+      "name": "Altavoz Bluetooth",
+      "description": "Altavoz portátil con sonido envolvente",
+      "price": 59.99,
+      "stock": 18,
+      "category": "Accesorios"
+    },
+    {
+      "id": 11,
+      "name": "Smartwatch",
+      "description": "Reloj inteligente con monitor de frecuencia cardíaca",
+      "price": 149.99,
+      "stock": 22,
+      "category": "Accesorios"
+    },
+    {
+      "id": 12,
+      "name": "Disco Duro Externo",
+      "description": "Disco duro externo de 1TB con USB 3.0",
+      "price": 79.99,
+      "stock": 14,
+      "category": "Almacenamiento"
+    },
+    {
+      "id": 13,
+      "name": "Router Wi-Fi",
+      "description": "Router Wi-Fi de doble banda con alta velocidad",
+      "price": 59.99,
+      "stock": 10,
+      "category": "Electrónica"
+    },
+    {
+      "id": 14,
+      "name": "Silla de Oficina",
+      "description": "Silla ergonómica con soporte lumbar",
+      "price": 199.99,
+      "stock": 8,
+      "category": "Oficina"
+    },
+    {
+      "id": 15,
+      "name": "Lámpara de Escritorio",
+      "description": "Lámpara LED con ajuste de brillo",
+      "price": 29.99,
+      "stock": 25,
+      "category": "Oficina"
+    },
+    {
+      "id": 16,
+      "name": "Cargador Portátil",
+      "description": "Cargador portátil de 10000mAh",
+      "price": 39.99,
+      "stock": 30,
+      "category": "Accesorios"
+    },
+    {
+      "id": 17,
+      "name": "Proyector",
+      "description": "Proyector portátil con resolución Full HD",
+      "price": 299.99,
+      "stock": 5,
+      "category": "Electrónica"
+    },
+    {
+      "id": 18,
+      "name": "Micrófono",
+      "description": "Micrófono de condensador para grabación",
+      "price": 99.99,
+      "stock": 12,
+      "category": "Accesorios"
+    },
+    {
+      "id": 19,
+      "name": "Webcam",
+      "description": "Webcam HD con micrófono integrado",
+      "price": 49.99,
+      "stock": 20,
+      "category": "Accesorios"
+    },
+    {
+      "id": 20,
+      "name": "Tarjeta de Memoria",
+      "description": "Tarjeta de memoria microSD de 128GB",
+      "price": 29.99,
+      "stock": 40,
+      "category": "Almacenamiento"
+    },
+    {
+      "id": 21
+    },
+    {
+      "id": 22
+    },
+    {
+      "id": 23
+    },
+    {
+      "id": 24
+    },
+    {
+      "id": 25
+    },
+    {
+      "id": 26
+    },
+    {
+      "name": "cargador ",
+      "description": "cargdor ",
+      "price": "45",
+      "stock": "10",
+      "category": "1",
+      "id": 27
+    },
+    {
+      "id": 28
+    },
+    {
+      "name": "laptop 45",
+      "description": "laptop 45",
+      "price": "5000",
+      "stock": "45",
+      "category": "6",
+      "id": 29
+    },
+    {
+      "id": 30
+    },
+    {
+      "name": "pc",
+      "description": "pc",
+      "price": "400",
+      "stock": "5",
+      "category": "6",
+      "id": 31
+    },
+    {
+      "name": "dc",
+      "description": "dc",
+      "price": "45",
+      "stock": "2",
+      "category": "1",
+      "id": 32
+    },
+    {
+      "name": "Cargador portátil ",
+      "description": "cargador tipo c45 ",
+      "price": "150",
+      "stock": "6",
+      "category": "Cargador",
+      "id": 33
+    },
+    {
+      "name": "pc 08",
+      "description": "pc08 con poderosa cargador ",
+      "price": "450",
+      "stock": "4",
+      "category": "Laptop",
+      "id": 34
+    },
+    {
+      "name": "pc01",
+      "description": "pc01",
+      "price": "45",
+      "stock": "2",
+      "category": "Laptop",
+      "id": 35
+    },
+    {
+      "name": "pc01",
+      "description": "pc01",
+      "price": "45",
+      "stock": "2",
+      "category": "Laptop",
+      "id": 36
+    },
+    {
+      "name": "pc01",
+      "description": "pc01",
+      "price": "45",
+      "stock": "2",
+      "category": "Laptop",
+      "id": 37
+    },
+    {
+      "name": "pc01",
+      "description": "pc01",
+      "price": "45",
+      "stock": "2",
+      "category": "Laptop",
+      "id": 38
+    },
+    {
+      "name": "pc04",
+      "description": "pc0444",
+      "price": "5",
+      "stock": "5",
+      "category": "Cable",
+      "id": 39
+    },
+    {
+      "name": "Panel Solar de 12W",
+      "description": "panel solar de 12w exelente servicio para hogar ",
+      "price": "450",
+      "stock": "6",
+      "category": "Otros",
+      "id": 40
+    }
+  ]
+}
